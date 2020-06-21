@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Mus'ab Ziad Moh'd Banat",
+    "label": "",
+    "picture": "https://Musab-Banat.github.io/images/profile.JPG",
+    "email": "mossab748@gmail.com / mossab@med.hu.edu.jo",
+    "phone": "+962797958771",
+    "website": "https://AbdArdati.github.io",
+    "summary": "Write your summary here",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "Al-Rusaifa",
+      "postalCode": "",
+      "city": "Zarqa",
+      "countryCode": "",
+      "region": "Jordan"
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "network": "facebook",
+        "username": "mossab.banat",
+        "url": "https://www.facebook.com/mossab.banat"
       },
       {
         "network": "linkedin",
