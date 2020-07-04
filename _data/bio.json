@@ -39,22 +39,21 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Medicine",
       "keywords": [
-        "Medicine",
-        "Healthcare",
-        "Translation",
-        "Non-Profit"
+        "Healthcare",   
       ]
     },
     {
-      "name": "data mining",
+      "name": "Wikipedia",
       "keywords": [
+        "Translation"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Non-Profit",
       "keywords": [
+        "Leadership"
       ]
     }
   ],
