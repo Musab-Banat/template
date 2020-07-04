@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Mus'ab Ziad Moh'd Banat",
-    "label": "",
+    "label": "Wikipedia Education Program Team Leader in Wikimedia Levant",
     "picture": "https://Musab-Banat.github.io/images/profile.JPG",
     "email": "mossab748@gmail.com / mossab@med.hu.edu.jo",
     "phone": "+962797958771",
     "website": "https://AbdArdati.github.io",
-    "summary": "Write your summary here",
+    "summary": "Wikipedia 5th most active Arab editor. I translate medical and scientific articles. Wikipedia education program team leader at the hashemite university in Jordan and Wikipedia campus ambassador. chairperson of Digital Arabic Content Club. Board member at wikiproject med foundation.",
     "location": {
       "address": "Al-Rusaifa",
       "postalCode": "",
@@ -22,18 +22,18 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "mossab-banat-5725bb136",
+        "url": "https://www.linkedin.com/in/mossab-banat-5725bb136/"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "mossabbanat",
+        "url": "http://instagram.com/mossabbanat"
       }
     ]
   },
@@ -41,8 +41,10 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Medicine",
+        "Healthcare",
+        "Translation",
+        "Non-Profit"
       ]
     },
     {
