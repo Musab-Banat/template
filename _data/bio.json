@@ -42,7 +42,8 @@
     {
       "name": "Wikipedia",
       "keywords": [
-        "Translation"
+        "Translation",
+         "Editing Wikipedia"
       ]
     },
     {
@@ -54,46 +55,73 @@
   ],
   "skills": [
     {
-      "name": "",
+      "name": "Microsoft",
       "level": "",
       "keywords": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "PowerPoint",
+        "Excel",
+        "Word",
+        "Access",
+        "Front Page"
       ]
     },
     {
-      "name": "",
+      "name": "Internet",
       "level": "",
       "keywords": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Wikipedia education program team leader at Hashemite University in Jordan.",
+        "Wikipedia education program team leader at Wikimedia Levant.",
+        "Member of the Wikimedia OTRS team.",
+        "Mass message sender on meta wiki. ",
+        "Administrator on the Arabic Wikipedia, Wiktionary, Wikibooks and Wikisource. I am also bureaucrat and interface-admin on the Arabic Wikisource. - Wikipedia education program campus ambassador.",
+        "Wikipedia education program online ambassador.",
+         "Kiwix ambassador.",
+        "Was involved in creating of an offline medical Wikipedia app in Arabic (translated the interface).",
+         "Long-term mobile version editor through Wikipedia Zero project.",
+        "Member of Wikimedians of the Levant since April 2015.",
+        "Member of Wikipedia & Education User Group since April 2018. - Member of Wiki Project Med foundation since July 2017. ",
+        "Board of Wiki Project Med foundation since March 2019. ",
+        "Associate editor at WikiJournal of Medicine since December 2018. - File mover, autopatrolled and extended uploader on Wikimedia Commons. - Ranked as 8th Top medical editor in 2015 among global medical editors on  Wikipedia and I was ranked 40th in the Top medical editors list in 2016, 10th in  2017 and 16th in 2018. Also, in the beginning of my contribution on Wikipedia I  was ranked as 58th Top medical editor in 2014 as the highest Arabic medical editor  in all three consecutive years (2014-2015-2016) and the second highest Arabic  medical editor at 2017 and 2018.", 
+        "Ranked 4th on List of Wikipedians by number of edits on Arabic Wikipedia  with more than 161,700 contributions/edits on Arabic Wikipedia (I am the 4th most  active editor in the Arab world) .  ",
+        "Created more than 1100 articles on Arabic Wikipedia. ",
+        "Made over 9,200 edits on English Wikipedia and over 197,005 global  contributions in all Wikimedia projects.  ",
+        "Participated in the Proofreading of Arabic version of WMF machine translation  survey. ",
+        "Won the Jordan Academy of Arabic award - first rank – for internet-based  language initiatives at the level of the country. ",
+
       ]
     }
   ],
   "education": [
     {
-      "institution": "",
-      "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "",
+      "institution": "Faculty of Medicine, The Hashemite University",
+      "area": "Medicine (MD)",
+      "studyType": " Medicine Bachelor (Faculty of medicine)",
+      "startDate": "September 2013",
+      "endDate": "June 2020",
       "gpa": "",
       "courses": [
       ]
     }
   ],
+    "education": [
+    {
+      "institution": "Al-Rusaifa secondary school for boys",
+      "area": "Medicine (MD)",
+      "studyType": "GSCE",
+      "startDate": "September 2013",
+      "endDate": "June 2020",
+      "gpa": "98.2%",
+      "courses": [
+        
+      ]
+    }
+  ],
   "work": [
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
+      "company": "Jordan Ministry of Health, at Prince Faisal Bin al Husain Hospital and Zarqa Governmental Hospital",
+      "position": "Medical Internship",
+      "website": "https://corona.moh.gov.jo/en",
+      "startDate": "Aug 2020",
       "endDate": "",
       "summary": "",
       "highlights": [
@@ -102,24 +130,48 @@
       ]
     },
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
+      "company": "The Hashemite University",
+      "position": "University Council Member",
+      "website": "https://hu.edu.jo/",
+      "startDate": "Oct 2020",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "",
+        "Alumni Representative",
+        ""
+      ]
+    },
+        {
+      "company": "The Hashemite University Faculty of Allied Health Sciences",
+      "position": "Research Assistant",
+      "website": "https://orcid.org/0000-0001-9132-3849",
+      "startDate": "Oct 2020",
+      "endDate": "",
+      "summary": "Research Assistant at College of the Applied Medical Sciences and at the College of Pharmacy.",
+      "highlights": [
+        "Alumni Representative",
         ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "Wikimedia Medicine, Newyork, NY, US",
       "website": "",
-      "position":  "",
-      "startDate":  "",
+      "position":  "Board member",
+      "startDate":  "2019-03",
+      "endDate": "",
+      "summary":  "",
+      "highlights":  [
+        "",
+        ""
+      ]
+    },
+        {
+      "organization": "Wikijournal of Medicine, San Francisco , US",
+      "website": "",
+      "position":  " Associate Editor",
+      "startDate":  "2019-03",
       "endDate": "",
       "summary":  "",
       "highlights":  [
@@ -128,9 +180,21 @@
       ]
     },
     {
-      "organization": "",
+      "organization": "Wikimedia Foundation, San Francisco, California, US",
       "website": "",
       "position": "",
+      "startDate": "2013-12",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
+        {
+      "organization": "Arabic digital content student club in the deanship of student affairs at Hashemite University.",
+      "website": "",
+      "position": "Founder and president",
       "startDate": "",
       "endDate": "",
       "summary": "",
