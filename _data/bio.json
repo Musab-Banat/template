@@ -93,26 +93,23 @@
   ],
   "education": [
     {
-      "institution": "Faculty of Medicine, The Hashemite University",
+      "institution": "Faculty of Medicine The Hashemite University",
       "area": "Medicine (MD)",
       "studyType": " Medicine Bachelor (Faculty of medicine)",
-      "startDate": "September 2013",
-      "endDate": "June 2020",
+      "startDate": "2013",
+      "endDate": "2020",
       "gpa": "",
       "courses": [
       ]
-    }
-  ],
-    "education": [
+    },
     {
-      "institution": "Al-Rusaifa secondary school for boys",
+      "institution": "Al-Rusaifa Secondary School for Boys",
       "area": "Medicine (MD)",
       "studyType": "GSCE",
-      "startDate": "September 2013",
-      "endDate": "June 2020",
+      "startDate": "2013",
+      "endDate": "2020",
       "gpa": "98.2%",
       "courses": [
-        
       ]
     }
   ],
@@ -121,12 +118,10 @@
       "company": "Jordan Ministry of Health, at Prince Faisal Bin al Husain Hospital and Zarqa Governmental Hospital",
       "position": "Medical Internship",
       "website": "https://corona.moh.gov.jo/en",
-      "startDate": "Aug 2020",
+      "startDate": "2020",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "",
-        ""
       ]
     },
     {
@@ -138,19 +133,17 @@
       "summary": "",
       "highlights": [
         "Alumni Representative",
-        ""
       ]
     },
         {
       "company": "The Hashemite University Faculty of Allied Health Sciences",
       "position": "Research Assistant",
       "website": "https://orcid.org/0000-0001-9132-3849",
-      "startDate": "Oct 2020",
+      "startDate": "2020",
       "endDate": "",
       "summary": "Research Assistant at College of the Applied Medical Sciences and at the College of Pharmacy.",
       "highlights": [
         "Alumni Representative",
-        ""
       ]
     }
   ],
@@ -159,7 +152,7 @@
       "organization": "Wikimedia Medicine, Newyork, NY, US",
       "website": "",
       "position":  "Board member",
-      "startDate":  "2019-03",
+      "startDate":  "2019",
       "endDate": "",
       "summary":  "",
       "highlights":  [
@@ -171,7 +164,7 @@
       "organization": "Wikijournal of Medicine, San Francisco , US",
       "website": "",
       "position":  " Associate Editor",
-      "startDate":  "2019-03",
+      "startDate":  "2019",
       "endDate": "",
       "summary":  "",
       "highlights":  [
@@ -183,7 +176,7 @@
       "organization": "Wikimedia Foundation, San Francisco, California, US",
       "website": "",
       "position": "",
-      "startDate": "2013-12",
+      "startDate": "2013",
       "endDate": "",
       "summary": "",
       "highlights": [
