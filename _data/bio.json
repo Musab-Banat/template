@@ -198,23 +198,15 @@
     }
   ],
   "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": "",
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": "",
-    }
   ],
   "references": [
     {
-      "name": "",
-      "reference": "",
+      "name": "Dr. Aiman Al Sharei",
+      "reference": "A. Professor of Anatomy and histology/ head of clinical skills testing &  examination center and Assistant Dean for Clinical Affairs, Hashemite University. Contact  information: aiman@hu.edu.jo or aiman_alsharei@yahoo.com.",
+    },
+        {
+      "name": "Dr. James Heilman",
+      "reference": "Emergency Physician, and Trustee, Board of Trustees, Wikimedia  Foundation, e-mail: jmh649@gmail.com, phone: +1-4158306381.",
     }
   ]
 }
